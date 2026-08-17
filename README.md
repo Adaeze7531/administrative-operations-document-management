@@ -69,4 +69,9 @@ Access is provided according to a person's role and responsibilities. Team membe
 
 This project includes recreated portfolio materials based on my administrative workflow.
 
+- [Administrative Operations & Document Management Workflow](https://github.com/Adaeze7531/administrative-operations-document-management/blob/main/Administrative%20Operations%20%26%20Document%20Management%20Workflow.pdf)
+- [Administrative Operations & Document Management Checklist](https://github.com/Adaeze7531/administrative-operations-document-management/blob/main/ADMINISTRATIVE%20OPERATIONS%20%26%20DOCUMENT%20MANAGEMENT%20CHECKLIST.pdf)
+- [Google Drive & Access Management Guide](https://github.com/Adaeze7531/administrative-operations-document-management/blob/main/GOOGLE%20DRIVE%20%26%20ACCESS%20MANAGEMENT%20GUIDE.pdf)
+- [Administrative Operations & Document Management - Project Overview](https://github.com/Adaeze7531/administrative-operations-document-management/blob/main/Administrative%20Operations%20%26%20Document%20Management%20-%20Project%20Overview.pdf)
+
 > Note: Portfolio materials have been recreated or anonymized to protect confidential organizational and participant information.
